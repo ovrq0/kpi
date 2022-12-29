@@ -29,6 +29,8 @@ svg {
     position: absolute;
     right: 12px;
     top: 9px;
+    background: #FFFFFF;
+    background-size: auto;
 }
 
 .form__name input{
@@ -96,4 +98,3 @@ svg {
 .password {
     position: relative;
 }
-
